@@ -10,8 +10,7 @@ class CompanyInfo extends Model
         'address', 
         'email', 
         'phone', 
-        'phone2', 
-        
+        'phone2',
         'lat', 
         'lng', 
         'facebook', 
